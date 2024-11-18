@@ -6,6 +6,7 @@ jQuery(document).ready(function(){
         $('.submenu').stop().slideUp(500);
         $('#menu_bg').stop().slideUp(500);
     });
+    
 
     $('.imgslide a:gt(0)').hide();
     setInterval(function(){
