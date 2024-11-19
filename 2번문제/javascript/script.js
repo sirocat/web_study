@@ -6,7 +6,7 @@ jQuery(document).ready(function(){
     });
 
     setInterval(function(){
-        $('.slidelist').delay(2000);
+    $('.slidelist').delay(2000);
     $('.slidelist').animate({marginLeft:-1200});
     $('.slidelist').delay(2000);
     $('.slidelist').animate({marginLeft:-2400});
